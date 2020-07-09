@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 992658871
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e48e21eaff016dd687d10aa58669580f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/WorkShop/Scenes/firstLevel.unity
+Dependencies: []
