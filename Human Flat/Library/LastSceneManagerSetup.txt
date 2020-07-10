@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/WorkShop/Scenes/firstLevel.unity
+- path: Assets/WorkShop/Scenes/MyLevels/firstLevel 1.unity
   isLoaded: 1
   isActive: 1

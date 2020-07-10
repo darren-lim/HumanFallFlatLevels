@@ -251,7 +251,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1216328363182482}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.4529724, y: 23.86, z: 0.7367077}
+  m_LocalPosition: {x: 7.43, y: 19.98, z: 41.32}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4472906876321358}
@@ -891,6 +891,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+  syncLocalScale: 0
 --- !u!114 &114196039421246226
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -938,8 +939,8 @@ MonoBehaviour:
     connectedNode: {fileID: 114467576590821544}
     connectedSocket: Swing
     initialValue: 0
-  outputting: 0
-  alwaysOuput: 0
+  outputting: 1
+  alwaysOuput: 1
   animationCurve:
     serializedVersion: 2
     m_Curve:
